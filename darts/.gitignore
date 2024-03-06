@@ -1,0 +1,15 @@
+__pycache__/
+.DS_Store
+.DS_Store/
+
+search-*/
+*.sh.e*
+*.sh.o*
+/data/
+a_*.sh
+
+# self ignore
+/rnn
+/img
+LICENSE
+README.md

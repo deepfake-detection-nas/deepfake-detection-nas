@@ -1,0 +1,11 @@
+__pycache__/
+.DS_Store
+.DS_Store/
+
+.env
+/image/
+/search-*/
+*.sh.e*
+*.sh.o*
+a_*.sh
+README.md
